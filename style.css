@@ -1,0 +1,23 @@
+#calc{
+	padding:20px;	
+	width:500px;
+	background-color: #E8E8E8;
+	box-shadow: 0 2px 15px #666666;
+	-moz-box-shadow: 0 2px 15px #666666;
+	-webkit-box-shadow: 0 2px 15px #666666;
+	-webkit-border-radius: 15px 15px; 
+	15px 15px;-moz-border-radius: 15px 15px; 
+	15px 15px;border-radius: 15px 15px; 15px 15px;"
+}
+
+#outputval{
+	padding:20px;	
+	width:350px;
+	background-color: #C8C8C8;
+	box-shadow: 0 2px 15px #666666;
+	-moz-box-shadow: 0 2px 15px #666666;
+	-webkit-box-shadow: 0 2px 15px #666666;
+	-webkit-border-radius: 15px 15px; 
+	15px 15px;-moz-border-radius: 15px 15px; 
+	15px 15px;border-radius: 15px 15px; 15px 15px;"
+}
